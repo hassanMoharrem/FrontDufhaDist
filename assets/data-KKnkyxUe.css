@@ -1,1 +1,0 @@
-.skeleton{background:#e5e7eb;position:relative;overflow:hidden}.shimmer:after{content:"";position:absolute;top:0;left:-150px;height:100%;width:150px;background:linear-gradient(90deg,transparent,rgba(59,130,246,.15),transparent);animation:shimmer 1.3s infinite}@keyframes shimmer{0%{left:-150px}to{left:100%}}
