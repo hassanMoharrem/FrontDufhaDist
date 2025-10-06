@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,a as s,o as r}from"./index-CzOwh0Y-.js";const t={},c={class:"dashboard-container"};function n(d,a){return r(),o("div",c,a[0]||(a[0]=[s("h1",null,"مرحبا طالب!",-1)]))}const i=e(t,[["render",n],["__scopeId","data-v-1392a7a8"]]);export{i as default};
